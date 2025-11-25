@@ -1,113 +1,202 @@
-胖东来
-于东来
-
+[SECTION 1: DEEPTECH & FRONTIER TECH (CORE)]
+OpenAI
+ChatGPT
+Sora
+Sam Altman
+DeepMind
+Gemini
+Demis Hassabis
+Anthropic
+Claude
+Dario Amodei
+NVIDIA
+Jensen Huang
+Blackwell
+CUDA
+Microsoft
+Satya Nadella
+Copilot
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
+ByteDance
+Doubao
+Zhang Yiming
+Huawei
 HarmonyOS
-任正非
+Ascend
+Ren Zhengfei
+Generative AI
+Agentic AI
+Multimodal AI
+Post-Quantum Cryptography
+Neuromorphic Computing
+Edge AI
+Sovereign AI
+Data Center Inference
 
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
+[SECTION 2: EMBODIED AI & ROBOTICS]
+Tesla Optimus
+Elon Musk
+Boston Dynamics
+Unitree
+宇树科技
+Wang Xingxing
+Agibot
+智元机器人
+Zhihuijun
 稚晖君
-彭志辉
+Figure AI
+1X Technologies
+Sanctuary AI
+DJI Enterprise
+Humanoid Robot
+Embodied AI
+Dexterous Hand
+Sim-to-Real
+End-to-End Control
+Polyfunctional Robots
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
+[SECTION 3: HARD TECH & SEMICONDUCTORS]
 AMD
+Lisa Su
+TSMC
+ASML
+BYD Semiconductor
+Lithography
+Advanced Packaging
+CoWoS
+Silicon Photonics
+RISC-V
+Solid State Battery
+Compound Semiconductors (GaN/SiC)
 
-谷歌
-google
-gemini
-deepmind
+[SECTION 4: FUTURE FRONTIERS (SPACE & ENERGY)]
+SpaceX
+Starship
+Blue Origin
+LandSpace
+蓝箭航天
+ITER
+Controlled Fusion
+Helion Energy
+Commonwealth Fusion Systems
+Neuralink
+Brain-Computer Interface (BCI)
+Neurological Enhancement
+Quantum Computing
+Deep Tech
+New Quality Productive Forces (新质生产力)
 
-chatgpt
-openai
-sora
+[SECTION 5: HEALTHTECH & BIO-AI]
+AlphaFold
+Isomorphic Labs
+In-silico Trials
+Generative Chemistry
+AI Drug Discovery
+CRISPR
+Gene Editing
+Radiomics
+Digital Pathology
+Remote Patient Monitoring (RPM)
+Digital Therapeutics (DTx)
+Value-Based Care
+Electronic Medical Records (EMR) Interoperability
+Hospital at Home
+Telemedicine 2.0
+Ambient Clinical Intelligence (ACI)
+Medical LLMs (Med-PaLM, etc.)
 
-claude
-Anthropic
+[SECTION 6: EDUTECH & WORKFORCE]
+Adaptive Learning
+AI Tutors
+Personalized Curriculum
+Micro-credentials
+Upskilling & Reskilling
+Learning Management Systems (LMS)
+Immersive Learning (VR/AR Education)
+Gamification in Education
+Workforce Analytics
+Talent Intelligence
+Student Retention AI
 
-iphone
-ipad
-mac
-ios
+[SECTION 7: LEGALTECH & COMPLIANCE]
+Contract Lifecycle Management (CLM)
+E-Discovery
+Legal Predictive Analytics
+RegTech
+Smart Contracts
+KYC/AML Automation
+Disinformation Security
+AI Governance
+Deepfake Detection
+Intellectual Property Management
 
-ai
-!gai
-人工智能
+[SECTION 8: VENTURE CAPITAL & INVESTMENT TERMS]
+Seed Stage
+Series A
+Bridge Round
+Down Round
+Valuation Multiples
+Annual Recurring Revenue (ARR)
+Burn Rate
+Runway
+Customer Acquisition Cost (CAC)
+Lifetime Value (LTV)
+Churn Rate
+Corporate Venture Capital (CVC)
+Impact Investing
+ESG (Environmental, Social, Governance)
+Climate Tech
+Exit Strategy (IPO, M&A, Trade Sale)
+Dry Powder
+Due Diligence
+Term Sheet
 
-自动驾驶
+[SECTION 9: MALAYSIA & SOUTHEAST ASIA CONTEXT (MICRO-ECONOMIC)]
+Khazanah Nasional
+Dana Impak
+KWAP (Kumpulan Wang Persaraan)
+EPF (Employees Provident Fund)
+Cradle Fund
+MAVCAP
+Penjana Kapital
+MRANTI
+Malaysia Digital Economy Blueprint (MyDIGITAL)
+KL20 Summit
+MOSTI (Ministry of Science, Technology and Innovation)
+Bank Negara Malaysia (BNM)
+Securities Commission Malaysia
+Bursa Malaysia
+Grab
+GoTo
+Sea Group
+Carsome
+Aerodyne
+GHL Systems
+MySejahtera
+Cyberjaya
+Southeast Asia Startup Ecosystem
 
-机器人
+[SECTION 10: CULTURAL TECH (TECH FOCUS)]
+Game Science
+Black Myth: Wukong
+Unreal Engine 5
+S-Game
+Phantom Blade Zero
+Light Chaser Animation
+AIGC
+Virtual Production
+3D Asset Generation
+Spatial Computing
 
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+[NEGATIVE KEYWORDS / EXCLUSIONS]
+!gossip
+!scandal
+!stock price
+!sales ranking
+!consumer review
+!politics
+!toy
+!vacuum
+!crypto hype
+!celebrity news
